@@ -4,7 +4,7 @@
 - **Severity Breakdown:**
   - 🟥 High: 0  
   - 🟧 Medium: 0  
-  - 🟨 Low / Quality: 7  
+  - 🟨 Low / Informational: 7  
 
 ---
 
