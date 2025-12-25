@@ -8,13 +8,6 @@
 
 ---
 
-## ✅ Why this repo?
-
-- Demonstrates **real-world competitive audit participation**.  
-- Shows ability to find **logic issues, DoS vectors, economic inefficiencies, and misaligned incentives**.  
-
----
-
 ## 🚀 Findings Overview
 
 | #   | Title                                                                 | Severity |
