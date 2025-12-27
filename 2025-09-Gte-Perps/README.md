@@ -12,10 +12,9 @@
 
 | #   | Title                                                                 | Severity |
 |-----|-----------------------------------------------------------------------|----------|
-| 1   | Misaligned rewards in Distributor:addRewards due to positional params | Low      |
-| 2   | DoS in Launchpad `_swapRemaining` (wrong payer msg.sender)            | Low      |
-| 3   | Gas DoS when matching many orders at same price (Book.sol)            | Low      |
-| 4   | Inconsistent denominators skewing `getImpactPrice` (Market.sol)       | Low      |
-| 5   | Gas DoS across multiple price levels (CLOBLib)                        | Low      |
+| 1   | Misaligned rewards in Distributor:addRewards due to positional params |   Low    |
+| 2   | DoS in Launchpad `_swapRemaining` (wrong payer msg.sender)            |   Low    |
+| 3   | Inconsistent denominators skewing `getImpactPrice` (Market.sol)       |   Low    |
+| 4   | Unbounded Iteration Across Multiple Price Levels                      |   Low    |
 
 ---
